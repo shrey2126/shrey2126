@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey2126&label=Profile%20views&color=0e75b6&style=flat" alt="shrey2126" /> </p>
 
-- 📫 How to reach me **rakholiyashrey@gmail.com**,**https://www.linkedin.com/in/shrey-rakholiya-62870a330/**
+- 📫 How to reach me **rakholiyashrey@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
