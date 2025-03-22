@@ -15,7 +15,7 @@
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=shrey2126&theme=dark&hide&show_icons=true&locale=en)<br/>
+![](https://github-readme-stats.vercel.app/api?username=shrey2126&hide&show_icons=true&locale=en)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shrey2126&theme=dark&hide)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=shrey2126&show_icons=true&locale=en&layout=compact&theme=dark)</br>
 
