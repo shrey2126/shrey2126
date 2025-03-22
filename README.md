@@ -15,9 +15,9 @@
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=shrey2126&hide&show_icons=true&locale=en)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shrey2126)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs?username=shrey2126&show_icons=true&locale=en&layout=compact)</br>
+![](https://github-readme-stats.vercel.app/api?username=shrey2126&hide&show_icons=true&locale=en&theme=dark)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shrey2126&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=shrey2126&show_icons=true&locale=en&layout=compact&theme=dark)</br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
